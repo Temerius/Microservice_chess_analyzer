@@ -1,0 +1,12 @@
+# .gitignore
+*.pyc
+__pycache__/
+.idea/
+input_data/
+train_model/
+runs/
+flet_dir/bg_all/
+flet_dir/chess_boards_all
+flet_dir/chess_pieces_all
+yolov8x.pt
+/server/models/
