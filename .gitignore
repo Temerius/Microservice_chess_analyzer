@@ -10,3 +10,5 @@ flet_dir/chess_boards_all
 flet_dir/chess_pieces_all
 yolov8x.pt
 /server/models/
+/neural_service/models/
+/flet_dir/images/
