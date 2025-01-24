@@ -23,10 +23,7 @@ During the course of this work, the following tasks will be addressed:
   *(https://app.roboflow.com/temerius/chess_analyzer_dataset/5)*
 
 - **Demonstration:**
-
-```html
-<iframe width="560" height="315" src="https://youtube.com/shorts/PNhNASUDGJE?feature=share" frameborder="0" allowfullscreen></iframe>
-```
+  *(https://youtube.com/shorts/PNhNASUDGJE?feature=share)*
 
 ## Conclusion
 
