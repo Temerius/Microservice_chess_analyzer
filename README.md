@@ -33,5 +33,5 @@ The use of artificial intelligence and computer vision in chess opens up new opp
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
+- **Artiom Kiseliov:**
+- **w0rkma1lmoc@gmail.com:** 
